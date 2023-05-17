@@ -1,0 +1,64 @@
+* {
+  font-family: sans-serif;
+}
+
+.sec1 {
+  margin-bottom: 20px;
+}
+
+.head {
+  display: flex;
+  gap: 45px;
+}
+
+.recent {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+}
+
+.btn {
+  font-family: sans-serif;
+  height: 30px;
+  font-weight: 700;
+  padding: 0 10px 0 10px;
+  margin-left: 220px;
+}
+
+.table {
+  border: 2px solid black;
+  margin-top: 10px;
+  width: 500px;
+}
+
+.addscorecont {
+  display: flex;
+  flex-direction: column;
+  width: 260px;
+  gap: 15px;
+}
+
+input[type="text"] {
+  border: 2px solid black;
+  padding: 5px;
+}
+
+#submit {
+  width: 80px;
+  padding: 5px 0 5px 0;
+  border: 2px solid black;
+  margin-left: 180px;
+}
+
+.footer {
+  background: grey;
+  height: 30px;
+  text-align: start;
+  padding-left: 10px;
+  width: 52.5%;
+}
+
+.foot {
+  color: white;
+  padding: 7px;
+}
