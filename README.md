@@ -74,7 +74,9 @@ In order to run this project you need:
 Clone this repository to your desired folder or download the Zip folder:
 
 ```
+
 git clone https://github.com/unorjikingsley/Leaderboard.git
+
 ```
 
 - Navigate to the location of the folder in your machine:
@@ -126,10 +128,10 @@ You can deploy this project using: GitHub Pages,
 
 ## 👤 Author <a name="author"></a>
 
-👤 **berylcl**
+👤 **unorjikingsley**
 
-- GitHub: [@unorjikingsley](https://github.com/unorjikingsley)
-- LinkedIn: [unorjikingsley](https://www.linkedin.com/in/unorjikingsley/)
+- GitHub: [@berylcl](https://github.com/unorjikingsley)
+- LinkedIn: [callme-claudette](https://www.linkedin.com/in/unorjikingsley/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -181,6 +183,8 @@ Give a ⭐️ if you like this project and how I managed to build it!
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/unorjikingsley/Leaderboard/blob/api-setup/LICENSE) licensed.
+
+This project is [MIT](https://github.com/unorjikingsley/Leaderboard/blob/styling-feature/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+development
