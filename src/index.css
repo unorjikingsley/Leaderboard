@@ -2,22 +2,41 @@
   font-family: sans-serif;
 }
 
+body {
+  background-color: rgb(255, 255, 255);
+}
+
 .sec1 {
   margin-bottom: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+  height: 90vh;
+}
+
+.nav {
+  background-color: rgb(151, 149, 149);
+}
+
+h1 {
+  padding: 10px 0 10px 10px;
+  font-size: 15px;
+  font-weight: 900;
+  color: brown;
 }
 
 .head {
   display: flex;
-  gap: 45px;
+  justify-content: space-between;
 }
 
 .recent {
   display: flex;
   align-items: center;
-  gap: 40px;
+  justify-content: space-between;
+  width: 600px;
 }
 
-.btn {
+#btn {
   font-family: sans-serif;
   height: 30px;
   font-weight: 700;
@@ -25,16 +44,22 @@
   margin-left: 220px;
 }
 
+#btn:hover {
+  background-color: gray;
+  color: white;
+  border: 1px solid brown;
+}
+
 .table {
   border: 2px solid black;
   margin-top: 10px;
-  width: 500px;
+  width: 600px;
 }
 
 .addscorecont {
   display: flex;
   flex-direction: column;
-  width: 260px;
+  width: 600px;
   gap: 15px;
 }
 
@@ -47,7 +72,13 @@ input[type="text"] {
   width: 80px;
   padding: 5px 0 5px 0;
   border: 2px solid black;
-  margin-left: 180px;
+  margin-left: 520px;
+}
+
+#submit:hover {
+  background-color: gray;
+  color: white;
+  border: none;
 }
 
 .footer {
@@ -55,7 +86,7 @@ input[type="text"] {
   height: 30px;
   text-align: start;
   padding-left: 10px;
-  width: 52.5%;
+  width: auto;
 }
 
 .foot {

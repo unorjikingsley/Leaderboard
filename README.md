@@ -44,6 +44,14 @@
 ### Key Features <a name="key-features"></a>
 
 - **Responsive Design.**
+- **Pixel Perfect design.**
+- **API Call.**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Here is the link to the live experience](upcoming).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -66,7 +74,7 @@ In order to run this project you need:
 Clone this repository to your desired folder or download the Zip folder:
 
 ```
-git clone https://github.com/unorjikingsley/Leaderboard-setup.git
+git clone https://github.com/unorjikingsley/Leaderboard.git
 ```
 
 - Navigate to the location of the folder in your machine:
@@ -120,8 +128,8 @@ You can deploy this project using: GitHub Pages,
 
 👤 **unorjikingsley**
 
-- GitHub: [@berylcl](https://github.com/unorjikingsley)
-- LinkedIn: [callme-claudette](https://www.linkedin.com/in/unorjikingsley
+- GitHub: [@unorjikingsley](https://github.com/unorjikingsley)
+- LinkedIn: [unorjikingsley](https://www.linkedin.com/in/unorjikingsley
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
