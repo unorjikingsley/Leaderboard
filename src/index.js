@@ -21,8 +21,8 @@ submitBtn.addEventListener('click', (e) => {
     username.value = '';
     userscore.value = '';
   }
+});
 
-  btn.addEventListener('click', () => {
-    getScores();
-  });
+btn.addEventListener('click', () => {
+  getScores();
 });
