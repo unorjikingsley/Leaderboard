@@ -74,7 +74,7 @@ In order to run this project you need:
 Clone this repository to your desired folder or download the Zip folder:
 
 ```
-git clone https://github.com/berylcl/Leaderboard-setup.git
+git clone https://github.com/unorjikingsley/Leaderboard.git
 ```
 
 - Navigate to the location of the folder in your machine:
