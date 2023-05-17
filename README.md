@@ -173,6 +173,6 @@ Give a ⭐️ if you like this project and how I managed to build it!
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/unorjikingsley/Leaderboard-setup/blob/dev/LICENSE) licensed.
+This project is [MIT](https://github.com/unorjikingsley/Leaderboard/blob/styling-feature/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
